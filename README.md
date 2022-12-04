@@ -10,7 +10,7 @@ As you know eaglecraft has been shut down. A lot of people who didn't download b
 4. Open File
 
 
-
+___________________________________________
       
 
 
@@ -24,4 +24,4 @@ As you know eaglecraft has been shut down. A lot of people who didn't download b
         
 
 
-Disclaimer: I DO NOT WORK FOR EAGLECRAFT!
+DISCLAIMER: I DO NOT WORK FOR EAGLECRAFT!

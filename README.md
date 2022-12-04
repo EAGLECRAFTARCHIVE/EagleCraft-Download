@@ -1,4 +1,4 @@
-As you know eaglecraft has been shut down. i decided to bring it back so here it is!!!
+As you know eaglecraft has been shut down. A lot of people who didn't download before it shut down couldn't get eaglecraft. I have good news, It's back to download for everyone! download now before this one gets shut down!!!
 
 ![OK](https://user-images.githubusercontent.com/119814547/205516681-f8a1329f-78a7-4370-a6db-d98a959a8f34.png)
 
@@ -8,3 +8,6 @@ As you know eaglecraft has been shut down. i decided to bring it back so here it
 2. Press "Download"
 3. Right click on page and press "Save As"
 4. Open File
+
+
+

@@ -2,7 +2,6 @@ As you know eaglecraft has been shut down. A lot of people who didn't download b
 
 ![OK](https://user-images.githubusercontent.com/119814547/205516681-f8a1329f-78a7-4370-a6db-d98a959a8f34.png)
 
-___________________________________________
 
 𝙃𝙊𝙒 𝙏𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿
 

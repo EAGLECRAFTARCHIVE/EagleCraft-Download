@@ -5,7 +5,7 @@ As you know eaglecraft has been shut down. A lot of people who didn't download b
 
 𝙃𝙊𝙒 𝙏𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿
 
-1. Click on "Offline_Download_Version.html"
+1. Click on "index.html"
 2. Press "Download"
 3. Right click on page and press "Save As"
 4. Open File
